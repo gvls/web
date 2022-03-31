@@ -1,0 +1,2 @@
+##  DELETE
+delete resource
